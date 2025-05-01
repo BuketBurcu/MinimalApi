@@ -1,4 +1,5 @@
 📌 Minimal API Todo Uygulaması
+
 Bu proje, .NET 8 ve C# dilinde geliştirilen basit bir Todo uygulamasıdır. Projede Minimal API yaklaşımı kullanılarak sade, okunabilir ve hızlı bir yapı oluşturulmuştur.
 
 🚀 Özellikler
