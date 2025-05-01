@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|c:\\users\\buket\\source\\repos\\minimalapiexample\\minimalapiexample\\minimalapiexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|solutionrelative:minimalapiexample\\minimalapiexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|c:\\users\\buket\\source\\repos\\minimalapiexample\\minimalapiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|solutionrelative:minimalapiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|c:\\users\\buket\\source\\repos\\minimalapiexample\\minimalapiexample\\minimalapiexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|solutionrelative:minimalapiexample\\minimalapiexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|c:\\users\\buket\\source\\repos\\minimalapiexample\\minimalapiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|solutionrelative:minimalapiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|c:\\users\\buket\\source\\repos\\minimalapiexample\\minimalapiexample\\minimalapiexample.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D108DB36-D789-4475-8784-7E36BF9FFB7C}|MinimalApiExample\\MinimalApiExample.csproj|solutionrelative:minimalapiexample\\minimalapiexample.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinimalApiExample",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\MinimalApiExample.csproj",
+              "RelativeDocumentMoniker": "MinimalApiExample\\MinimalApiExample.csproj",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\MinimalApiExample.csproj",
+              "RelativeToolTip": "MinimalApiExample\\MinimalApiExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T10:58:01.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinimalApiExample",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\MinimalApiExample.csproj",
+              "RelativeDocumentMoniker": "MinimalApiExample\\MinimalApiExample.csproj",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\MinimalApiExample.csproj",
+              "RelativeToolTip": "MinimalApiExample\\MinimalApiExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T10:57:45.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalApiExample\\Program.cs",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\Program.cs",
+              "RelativeToolTip": "MinimalApiExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:37:01.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\appsettings.json",
+              "RelativeDocumentMoniker": "MinimalApiExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\appsettings.json",
+              "RelativeToolTip": "MinimalApiExample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T08:36:48.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinimalApiExample.http",
+              "DocumentMoniker": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\MinimalApiExample.http",
+              "RelativeDocumentMoniker": "MinimalApiExample\\MinimalApiExample.http",
+              "ToolTip": "C:\\Users\\BUKET\\source\\repos\\MinimalApiExample\\MinimalApiExample\\MinimalApiExample.http",
+              "RelativeToolTip": "MinimalApiExample\\MinimalApiExample.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-01T08:36:43.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
